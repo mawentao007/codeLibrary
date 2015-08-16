@@ -3,6 +3,6 @@
 Scala
 * * *
 
-+   RWTool:scala simple read&write examples. 
++   <a href="https://github.com/mawentao007/codeLibrary/blob/master/scala/RWTool.scala">RWTool</a>:scala simple read&write examples. 
 
 * * *
